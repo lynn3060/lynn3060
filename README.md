@@ -1,21 +1,25 @@
 Close Marie Lynn
-Engineering AI Trainer | Python Simulation | Model Evaluation
 
-Python-based validation systems for AI models and engineering simulations.
-Professional Summary
-- 15+ years engineering analysis and simulation
-- 3+ years AI prompt design and evaluation
-- Python-based validation and QA automation
+I’m an engineering AI tutor and computational model evaluator with a background in engineering analysis, simulation, technical QA, and Python-based validation. My work focuses on building reliable workflows for checking AI-generated technical answers, validating numerical outputs, and designing structured evaluation tasks for STEM and engineering domains.
 
-## What I Do
-- Build AI evaluation datasets and scoring rubrics
-- Validate model outputs using Python
-- Design simulation and QA workflows
+What I Work On
+Python-based validation scripts for engineering and AI evaluation tasks
+Computational modeling and simulation workflows
+Prompt design and rubric development for technical AI systems
+Numerical checks, data consistency reviews, and reproducible scoring
+Engineering-focused QA workflows for model outputs and reference solutions
+Technical Skills
 
-## Tech Stack
-Python, NumPy, SciPy, Pandas, MATLAB, TensorFlow, SQL
+Programming & Data: Python, NumPy, Pandas, SciPy, SQL, Excel VBA
+Engineering Tools: MATLAB, AutoCAD Civil 3D, Revit, STAAD.Pro, HEC-RAS, ArcGIS
+AI & ML: Prompt evaluation, model response grading, TensorFlow, PyTorch
+Validation: Numerical methods, simulation verification, rubric design, data checks
 
-## Featured Projects
-- [AI Prompt Evaluation System](link)
-- [Simulation Validator](link)
-- [QA Automation Pipeline](link)
+Featured Focus Areas
+AI model evaluation for STEM reasoning
+Python tools for deterministic answer validation
+Simulation quality control and engineering data workflows
+Technical documentation and reviewer calibration
+Current Direction
+
+I’m building a portfolio of practical Python and AI-evaluation projects that demonstrate reliable technical validation, engineering computation, and structured assessment of model-generated outputs.
