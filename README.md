@@ -1,16 +1,21 @@
-## Hi there 👋
+Close Marie Lynn
+Engineering AI Trainer | Python Simulation | Model Evaluation
 
-<!--
-**lynn3060/lynn3060** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python-based validation systems for AI models and engineering simulations.
+Professional Summary
+- 15+ years engineering analysis and simulation
+- 3+ years AI prompt design and evaluation
+- Python-based validation and QA automation
 
-Here are some ideas to get you started:
+## What I Do
+- Build AI evaluation datasets and scoring rubrics
+- Validate model outputs using Python
+- Design simulation and QA workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+Python, NumPy, SciPy, Pandas, MATLAB, TensorFlow, SQL
+
+## Featured Projects
+- [AI Prompt Evaluation System](link)
+- [Simulation Validator](link)
+- [QA Automation Pipeline](link)
